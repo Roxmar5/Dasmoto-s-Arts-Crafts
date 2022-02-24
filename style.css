@@ -1,0 +1,35 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: palegoldenrod;
+  text-align: center;
+  font-size: 80px;
+  background-image: url('pattern.webp');
+}
+h4 {
+  color: white;
+  font-size: 35px;
+}
+
+h4.brushes {
+  background-color: aquamarine;
+  
+}
+
+h4.frames {
+  background-color: salmon;
+}
+
+h4.paint {
+  background-color: lightblue;
+}
+
+h5 {
+  font-size: 25px;
+}
+span.blue {
+  color: blue;
+  font-weight: bold;
+}
